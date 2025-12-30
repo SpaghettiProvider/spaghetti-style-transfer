@@ -6,7 +6,7 @@ A simple desktop UI for Neural Neighbor Style Transfer using a local NVIDIA GPU.
 - Windows
 - NVIDIA GPU
 - CUDA installed
-- Python 3.10+ (64-bit)
+- Python 3.10.x (64-bit)
 
 ## How to Run Locally
 - Download the project files into thier own folder
